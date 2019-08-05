@@ -11,4 +11,6 @@
     <string name="school">School</string>
     <string name="guardians_name">Guardians Name</string>
     <string name="guardians_contact_no">Guardians Contact No.</string>
+    <string name="admin_panel_topic">admin panel (topic)</string>
+    <string name="student_panel_topic">student panel (topic)</string>
 </resources>
